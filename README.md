@@ -5,6 +5,6 @@ Four data sources:
 1. FHFA appraisal data (UAD Dataset).
 2. Redfin research data.
 3. Realtor research data.
-4. Zwillow housing index.
+4. Zillow housing index.
 
 *Data organized by zipcode, year.*
