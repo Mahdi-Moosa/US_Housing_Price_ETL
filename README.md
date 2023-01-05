@@ -8,3 +8,5 @@ Four data sources:
 4. Zillow housing index.
 
 *Data organized by zipcode, year.*
+
+![My Image](images/HousingPriceETLOutline.png)
