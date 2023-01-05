@@ -9,4 +9,6 @@ Four data sources:
 
 *Data organized by zipcode, year.*
 
+## Outline of the ETL process:
+
 ![My Image](images/HousingPriceETLOutline.png)
