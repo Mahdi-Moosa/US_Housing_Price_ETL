@@ -17,7 +17,7 @@ This pipeline generates a Data Warehouse to perform analytics on US housing. The
 * Step 4: Load tables to AWS S3 bucket.
 * Step 5: Load tables to AWS redshift database.
 
-Database is primarily designed to perform queries(and join) on the "zip" table.
+Database is primarily designed to perform queries(and join) on the "zip" column of respective tables.
 
 ## Tools/resources used in the project:
 * [Python](https://www.python.org/)
